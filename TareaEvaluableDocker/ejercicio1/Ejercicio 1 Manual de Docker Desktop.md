@@ -20,7 +20,7 @@ Docker Desktop permite crear y gestionar contenedores de forma sencilla en Windo
     
 - Seleccionamos ambas opciones.
 
-![image.png](imagenes/image 2.png)
+![image.png](imagenes/image%202.png)
 
 3. Reiniciamos el sistema
 
@@ -30,11 +30,11 @@ Docker Desktop permite crear y gestionar contenedores de forma sencilla en Windo
 
 1. Abrimos la aplicación.
 
-![image.png](imagenes/image 3.png)
+![image.png](imagenes/image%203.png)
 
 1. Iniciamos sesión.
 
-![image.png](imagenes/image 4.png)
+![image.png](imagenes/image%204.png)
 
 1. Verificamos que funcione correctamente Docker Desktop, para ello podemos abrir la terminal de Docker Desktop y ponemos el siguiente comando:
 
@@ -42,7 +42,7 @@ Docker Desktop permite crear y gestionar contenedores de forma sencilla en Windo
 docker --version
 ```
 
-![image.png](imagenes/image 5.png)
+![image.png](imagenes/image%205.png)
 
 1. Ejecutamos el contenedor `hello-world` 
 - Una vez que Docker está instalado y funcionando, es recomendable probar su funcionamiento con la imagen `hello-world`, una imagen prediseñada por Docker para verificar que todo está bien configurado. Para ellos abrimos la terminal y ejecutamos el siguiente comando.
@@ -51,11 +51,11 @@ docker --version
 docker run hello-world
 ```
 
-![image.png](imagenes/image 6.png)
+![image.png](imagenes/image%206.png)
 
 Comprobamos que efectivamente ya nos sale el contenedor y esta funcionando.
 
-![image.png](imagenes/image 7.png)
+![image.png](imagenes/image%207.png)
 
 ## **4.** Pestañas Principales de Docker Desktop
 
@@ -68,7 +68,7 @@ Docker Desktop cuenta con varias pestañas clave para gestionar contenedores e i
 5. **Extensions**: Agrega funcionalidades adicionales a Docker Desktop.
 6. **Settings**: Configuración avanzada de Docker Desktop, como recursos asignados y redes.
 
-![image.png](imagenes/image 8.png)
+![image.png](imagenes/image%208.png)
 
 ## **5.** Acciones que puedo hacer con Docker Desktop
 
@@ -79,16 +79,16 @@ Docker Desktop cuenta con varias pestañas clave para gestionar contenedores e i
     Para descargar imágenes podemos acceder a la sección `Docker Hub` y en el buscador introducimos el nombre de la imagen que queramos.
     
 
-![image.png](imagenes/image 9.png)
+![image.png](imagenes/image%209.png)
 
-![image.png](imagenes/image 10.png)
+![image.png](imagenes/image%2010.png)
 
 - Gestionar Imágenes.
   
     A tráves de la sección `Images` podemos realizar diferentes acciones sobre las imágenes que tengamos descargadas.
     
 
-![image.png](imagenes/image 11.png)
+![image.png](imagenes/image%2011.png)
 
 ### b. Containers
 
@@ -96,12 +96,12 @@ Docker Desktop cuenta con varias pestañas clave para gestionar contenedores e i
   
     A tráves de la sección `Containers` podemos realizar diferentes acciones sobre los contenedores que tenemos en ejecución o pausados.
     
-    ![image.png](imagenes/image 12.png)
+    ![image.png](imagenes/image%2012.png)
     
 
 Cuando un contenedor esté en ejecución se activarán las opciones adicionales de pausar, reiniciar y abrir en terminal. También se mostrará el uso de memoria del contenedor y los controles para gestionar el contenedor.
 
-![image.png](imagenes/image 13.png)
+![image.png](imagenes/image%2013.png)
 
 ### c. Uso de la terminal
 
@@ -111,7 +111,7 @@ La terminal integrada permite a los usuarios ejecutar comandos de Docker directa
 
 El usuario puede elegir que tipo de terminal va a utilizar.
 
-![image.png](imagenes/image 14.png)
+![image.png](imagenes/image%2014.png)
 
 ## 6. Documentación oficial
 
